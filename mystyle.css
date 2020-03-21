@@ -1,0 +1,25 @@
+
+.left{float:left;}
+.right{float:right;}
+
+#t-warp{margin:0 auto;width:900px}
+#header {
+background-color:black;
+color:white;
+width:900px;
+text-align:center;
+padding:5px;
+}
+#nav {
+line-height:30px;
+background-color:#eeeeee;
+height:1300px;
+width:180;
+float:left;
+padding:5px;	
+}
+#section {
+width:700px;
+float:left;
+padding:10px;	
+} 
