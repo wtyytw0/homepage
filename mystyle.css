@@ -2,24 +2,27 @@
 .left{float:left;}
 .right{float:right;}
 
-#t-warp{margin:0 auto;width:900px}
+#t-warp{margin:0 auto;width:1050px}
 #header {
 background-color:black;
 color:white;
-width:900px;
+width:1050px;
 text-align:center;
 padding:5px;
 }
 #nav {
 line-height:30px;
 background-color:#eeeeee;
-height:1300px;
+height:1700px;
 width:180;
 float:left;
+/*display:inline;*/
 padding:5px;	
 }
 #section {
-width:700px;
-float:left;
+width:820px;
+float:right;
+/*display:inline;*/
 padding:10px;	
 } 
+.clear{ clear:both} 
